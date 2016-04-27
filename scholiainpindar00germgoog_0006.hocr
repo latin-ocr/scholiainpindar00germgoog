@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./scholiainpindar00germgoog_0006.png"; bbox 0 0 3322 5190; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 376 1641 1426 1752">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 376 1641 1426 1752">
+     <span class='ocr_line' id='line_1_1' title="bbox 376 1641 1426 1752; baseline -0.002 0"><span class='ocrx_word' id='word_1_1' title='bbox 376 1654 770 1752; x_wconf 83' lang='lat' dir='ltr'><strong>SOHOLIA</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 828 1654 1257 1751; x_wconf 84' lang='lat' dir='ltr'><strong>GERMANI</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1420 1641 1426 1648; x_wconf 40' lang='lat'>⁸</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 1474 2 2155">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 1474 2 2155">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 1474 2 2155; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 0 1474 2 2155; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 481 2035 1321 2175">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 481 2035 1321 2175">
+     <span class='ocr_line' id='line_1_3' title="bbox 481 2035 1321 2175; baseline 0 -35"><span class='ocrx_word' id='word_1_5' title='bbox 481 2035 834 2141; x_wconf 78' lang='lat' dir='ltr'>INPINDARI</span> <span class='ocrx_word' id='word_1_6' title='bbox 868 2046 1179 2142; x_wconf 81' lang='lat' dir='ltr'>OLYMPIA&#39;</span> <span class='ocrx_word' id='word_1_7' title='bbox 1317 2148 1321 2175; x_wconf 23' lang='grc' dir='ltr'>ς</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1 2383 1388 2524">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1 2383 1388 2524">
+     <span class='ocr_line' id='line_1_4' title="bbox 1 2383 1388 2524; baseline -0.001 -2"><span class='ocrx_word' id='word_1_8' title='bbox 1 2383 2 2408; x_wconf 36' lang='lat'>¹</span> <span class='ocrx_word' id='word_1_9' title='bbox 239 2393 280 2522; x_wconf 77' lang='grc' dir='ltr'>Ε</span> <span class='ocrx_word' id='word_1_10' title='bbox 315 2446 537 2523; x_wconf 76' lang='lat' dir='ltr'>coDmE</span> <span class='ocrx_word' id='word_1_11' title='bbox 570 2446 880 2524; x_wconf 72' lang='lat' dir='ltr'><strong>CAESAREO</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 918 2446 1388 2523; x_wconf 76' lang='lat' dir='ltr'><strong>VINDOBONENSI.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1666 5190">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1666 5190">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1666 5190; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1666 5190; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
